@@ -1,0 +1,14 @@
+package strings;
+
+public class StringIntro2 {
+
+	public static void main(String[] args) {
+		
+		String name = "anuj";
+		String anotherName = new String("aman");
+		
+		System.out.println(anotherName);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package arrays;
+
+public class AgeValue {
+
+	public static void main(String[] args) {
+		
+		int[] age = {2, 7, 6, 78, 76};
+		
+		System.out.println(age[0]);
+		
+
+	}
+
+}
